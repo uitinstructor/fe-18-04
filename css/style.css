@@ -48,3 +48,12 @@ section[class*=section-] {
   background-color: #d6564f;
   border-color: transparent;
 }
+
+.gallery-item {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.gallery-item a {
+  display: block;
+}
